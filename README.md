@@ -19,7 +19,5 @@ https://temperatura-ecru.vercel.app/
 
 O aplicativo busca a localização do usuário e, em seguida, faz uma solicitação à API OpenWeatherMap para obter os dados meteorológicos. Ele exibe a temperatura atual, descrição do tempo e um ícone correspondente.
 
-## Como Executar
 
-Siga estas etapas para executar o aplicativo em sua máquina local:
 
