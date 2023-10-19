@@ -1,8 +1,30 @@
-# React + Vite
+# Previsão do Tempo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Weather Icon](https://exemplo.com/weather-icon.png)
 
-Currently, two official plugins are available:
+Este é um aplicativo simples que exibe a previsão do tempo com base na localização do usuário. Ele utiliza a API OpenWeatherMap para obter os dados meteorológicos e exibe as informações em um formato amigável.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demonstração
+
+Inclua capturas de tela ou GIFs animados para mostrar o funcionamento do seu aplicativo.
+
+![Demo](https://exemplo.com/demo.gif)
+
+## Tecnologias Utilizadas
+
+- React
+- JavaScript
+- [Outra tecnologia]
+
+## Como Funciona
+
+O aplicativo busca a localização do usuário e, em seguida, faz uma solicitação à API OpenWeatherMap para obter os dados meteorológicos. Ele exibe a temperatura atual, descrição do tempo e um ícone correspondente.
+
+## Como Executar
+
+Siga estas etapas para executar o aplicativo em sua máquina local:
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://
