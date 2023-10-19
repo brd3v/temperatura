@@ -23,7 +23,3 @@ O aplicativo busca a localização do usuário e, em seguida, faz uma solicitaç
 
 Siga estas etapas para executar o aplicativo em sua máquina local:
 
-1. Clone o repositório:
-
-   ```bash
-   git clone https://
