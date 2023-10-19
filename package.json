@@ -1,5 +1,5 @@
 {
-  "name": "previsao-tempo",
+  "name": "previsao",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
@@ -21,7 +22,6 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
-    "react-icons": "^4.11.0",
     "vite": "^4.4.5"
   }
 }
