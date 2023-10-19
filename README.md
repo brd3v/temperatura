@@ -13,7 +13,7 @@ https://temperatura-ecru.vercel.app/
 
 - React
 - JavaScript
-- [Outra tecnologia]
+- Bootstrap
 
 ## Como Funciona
 
