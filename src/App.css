@@ -1,0 +1,27 @@
+.img svg{
+  width: 200px;
+  height:200px;
+}
+.row{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+p{
+  text-align: center;
+  font-size: 25px;
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+.app{
+  background-image: url('https://images.pexels.com/photos/10012495/pexels-photo-10012495.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: #fff;
+}
