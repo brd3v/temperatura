@@ -5,8 +5,7 @@
 Este é um aplicativo simples que exibe a previsão do tempo com base na localização do usuário. Ele utiliza a API OpenWeatherMap para obter os dados meteorológicos e exibe as informações em um formato amigável.
 
 ## Demonstração
-
-Inclua capturas de tela ou GIFs animados para mostrar o funcionamento do seu aplicativo.
+https://temperatura-ecru.vercel.app/
 
 ![Demo](https://exemplo.com/demo.gif)
 
